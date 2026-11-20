@@ -34,18 +34,15 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <sub>01</sub><br>
-      <b>Write anywhere</b><br>
+      <sub>01</sub>&nbsp; <b>Write anywhere</b><br>
       Mail, Slack, Notes, your browser, any text field. Type fast, leave the typos.
     </td>
     <td width="33%" valign="top">
-      <sub>02</sub><br>
-      <b>Tap your key</b><br>
+      <sub>02</sub>&nbsp; <b>Tap your key</b><br>
       The whole field is corrected in place. Select a part first to correct only that part.
     </td>
     <td width="33%" valign="top">
-      <sub>03</sub><br>
-      <b>Keep going</b><br>
+      <sub>03</sub>&nbsp; <b>Keep going</b><br>
       No pop-up to review, no copy-paste into a chatbot. The fixed text is already in place.
     </td>
   </tr>
@@ -109,8 +106,6 @@ Typoly updates itself. Every version is listed in the [changelog](CHANGELOG.md).
   </picture>
 </a>
 
-<p align="center">
-  <img src="assets/app-icon-256.png" width="56" alt="Typoly app icon"><br>
-  <sub>Built for your Mac. Made for you.</sub><br>
-  <sub><a href="https://www.typoly.app">typoly.app</a> &nbsp;·&nbsp; <a href="https://www.typoly.app/legal/privacy-policy">Privacy</a> &nbsp;·&nbsp; <a href="LICENSE">License</a></sub>
-</p>
+<p align="center"><img src="assets/app-icon-256.png" width="56" alt="Typoly app icon"></p>
+<p align="center"><sub>Built for your Mac. Made for you.</sub></p>
+<p align="center"><sub><a href="https://www.typoly.app">typoly.app</a> &nbsp;·&nbsp; <a href="https://www.typoly.app/legal/privacy-policy">Privacy</a> &nbsp;·&nbsp; <a href="LICENSE">License</a></sub></p>
