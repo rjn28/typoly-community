@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to report this. Every report is read.
+        Thanks for taking the time to write this up. I read every bug report.
 
         **This page is public. Never paste private text, emails, names or account details.**
         If a correction went wrong, write a short made-up sentence that shows the same problem.
@@ -76,8 +76,8 @@ body:
     attributes:
       label: Diagnostic logs (optional)
       description: |
-        Settings → About → Export Logs…, then drag the file here.
-        The logs record app names, timings and error types. They never contain the text you corrected.
+        Go to Settings → About → Export Logs… Open the file and check that you’re comfortable sharing the app names and other details it contains before attaching it here.
+        The logs never contain the text you corrected.
   - type: textarea
     id: extra
     attributes:

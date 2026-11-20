@@ -25,7 +25,7 @@
 <br>
 
 > [!NOTE]
-> **Typoly is closed source.** This repository holds no code. It is the public home of the app: release notes, bug reports, ideas, questions and brand assets, all in one place.
+> I’m Roch Junior, the developer of Typoly. I keep the app’s source code private. This is where I share release notes and brand assets, answer questions, and hear about bugs or ideas from people who use Typoly.
 
 <br>
 
@@ -56,9 +56,9 @@
 
 **Two modes, your keys.** &nbsp;*Proofread* makes objective fixes. *Contextual* reads the context around them. Put each one on its own key.
 
-**Cloud only, on purpose.** &nbsp;No model to download, no memory taken. Your Mac stays light, on every Mac you own.
+**Cloud only, on purpose.** &nbsp;I chose cloud processing so you can use Typoly without downloading or running a correction model on your Mac.
 
-**Private by design.** &nbsp;Your writing is never sold and never used to train models. Our inference providers use Zero Data Retention. The optional history on your Mac is encrypted, and you can clear or disable it. [Privacy policy →](https://www.typoly.app/legal/privacy-policy)
+**Private by design.** &nbsp;Your writing is never sold and never used to train models. The providers I use to process corrections use Zero Data Retention. The optional history on your Mac is encrypted, and you can clear or disable it. [Privacy policy →](https://www.typoly.app/legal/privacy-policy)
 
 **No subscription.** &nbsp;Prepaid credits that never expire, shared by all your Macs.
 
@@ -87,7 +87,7 @@ Typoly updates itself. Every version is listed in the [changelog](CHANGELOG.md).
 | You want to… | Go here |
 | :-- | :-- |
 | Report something that does not work | [Bug report](../../issues/new?template=bug-report.yml) |
-| Tell us a correction was wrong in your language | [Language report](../../issues/new?template=language-report.yml) |
+| Tell me what Typoly got wrong in your language | [Language report](../../issues/new?template=language-report.yml) |
 | Suggest a feature or vote for one | [Ideas](../../discussions/categories/ideas) |
 | Ask how something works | [Questions](../../discussions/categories/q-a) |
 | Report a security issue | [Security policy](SECURITY.md) (privately, never in a public issue) |

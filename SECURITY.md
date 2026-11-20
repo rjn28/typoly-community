@@ -1,6 +1,6 @@
 # Security policy
 
-Typoly touches what people write, so security reports are treated first.
+Typoly handles the text you write, so I give security reports priority.
 
 ## Report a vulnerability
 
@@ -23,4 +23,4 @@ Include what you found, the steps to reproduce it, the Typoly version and what a
 - Run load tests or anything that could slow the service down for others.
 - Use social engineering, spam or physical attacks.
 
-Typoly is made by one person and has no paid bug bounty, but every valid report is deeply appreciated.
+I maintain Typoly on my own. I don’t offer a paid bug bounty, and I appreciate the time you take to report a vulnerability.

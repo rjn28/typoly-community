@@ -26,5 +26,5 @@ Writing about Typoly, reviewing it or making a video? Use these files freely for
 ## Please
 
 - Keep the mark as it is: no new colors, no stretching, no effects.
-- Do not suggest that Typoly sponsors or endorses your work unless we agreed on it.
-- Questions or a press request: [contact@typoly.app](mailto:contact@typoly.app).
+- Please ask for my permission before saying that Typoly sponsors or endorses your work.
+- If you have a question or a press request, you can reach me at [contact@typoly.app](mailto:contact@typoly.app).
