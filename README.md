@@ -29,6 +29,25 @@
 
 <br>
 
+## What's new
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/one-key-dark.svg">
+  <img alt="New in Typoly 1.9: two modes, one key. Hold the key for Proofread, double-tap it for Contextual." src="assets/one-key-light.svg" width="100%">
+</picture>
+
+**Two modes, one key.** &nbsp;Hold your key for your main mode, double-tap it for the other. No second shortcut to remember. Turn on *Two modes, one key* in Settings.
+
+**Also new lately**
+
+- **1.9.3** &nbsp;More reliable in ChatGPT, Slack and Discord, and your clipboard stays as it was.
+- **1.9.2** &nbsp;Pay in dollars or euros. Clipboard managers like Maccy no longer keep Typoly's corrections.
+- **1.9.1** &nbsp;Force a language when you need it: English (UK), English (US), Hindi / Hinglish or Russian.
+
+Typoly updates itself. Every version is in the [changelog](CHANGELOG.md).
+
+<br>
+
 ## How it works
 
 <table>
@@ -54,7 +73,7 @@
 
 **Corrected, not rewritten.** &nbsp;Typoly fixes what is wrong and leaves the rest alone: your words, your tone, your formatting.
 
-**Two modes, your keys.** &nbsp;*Proofread* makes objective fixes. *Contextual* reads the context around them. Put each one on its own key.
+**Two modes, your way.** &nbsp;*Proofread* makes objective fixes. *Contextual* reads the context around them. Hold and double-tap the same key, or give each mode its own shortcut.
 
 **Cloud only, on purpose.** &nbsp;I chose cloud processing so you can use Typoly without downloading or running a correction model on your Mac.
 
@@ -69,16 +88,6 @@
 | Extra | $20 | 25 |
 
 <sub>One-time purchases, also payable in euros. Taxes are shown by Stripe before you pay.</sub>
-
-<br>
-
-## Latest release
-
-**1.9.3** &nbsp;<sub>November 10, 2026</sub>
-
-More reliable in ChatGPT, Slack and Discord. Typoly now corrects exactly what you selected in these apps and similar ones, and your clipboard stays as it was. The first correction after opening them is faster too.
-
-Typoly updates itself. Every version is listed in the [changelog](CHANGELOG.md).
 
 <br>
 
