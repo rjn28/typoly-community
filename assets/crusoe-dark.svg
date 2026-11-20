@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="34" viewBox="0 0 400 34" role="img"><title>Deployed on Crusoe Intelligence Foundry</title><foreignObject x="0" y="0" width="400" height="34"><div xmlns="http://www.w3.org/1999/xhtml"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+.b{display:inline-flex;align-items:center;gap:11px;height:34px;padding:0 13px;
+  color:#a6a9b1;background:rgba(255,255,255,0.025);border:1px solid rgba(255,255,255,0.1);border-radius:8px;
+  font-family:'SF Mono', SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;line-height:1;white-space:nowrap}
+.b svg{flex:0 0 auto;color:#d5ef32}
+.b strong{color:#f2f3f5;font-weight:650}
+.d{width:1px;height:18px;background:rgba(255,255,255,0.2)}
+.f{color:#d5ef32}
+</style><span class="b" id="badge"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"/><path d="m9 12 2 2 4-4"/></svg><span>Deployed on <strong>Crusoe</strong></span><span class="d"></span><span class="f">Intelligence Foundry</span></span></div></foreignObject></svg>

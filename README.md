@@ -79,6 +79,13 @@ Typoly updates itself. Every version is in the [changelog](CHANGELOG.md).
 
 **Private by design.** &nbsp;Your writing is never sold and never used to train models. The providers I use to process corrections use Zero Data Retention. The optional history on your Mac is encrypted, and you can clear or disable it. [Privacy policy →](https://www.typoly.app/legal/privacy-policy)
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/crusoe-dark.svg">
+    <img alt="Deployed on Crusoe Intelligence Foundry" src="assets/crusoe-light.svg" width="400" height="34">
+  </picture>
+</p>
+
 **No subscription.** &nbsp;Prepaid credits that never expire, shared by all your Macs.
 
 | Pack | Price before tax | Credits |
