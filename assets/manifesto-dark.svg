@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img"><title>you will always need to type on your keyboard. Manifesto, Roch Junior</title><foreignObject x="0" y="0" width="1280" height="300"><div xmlns="http://www.w3.org/1999/xhtml"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+.page{width:1280px;height:300px;background:#08090d;color:#f6f6f7;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:22px;font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif;text-align:center}
+.q{font-family:ui-serif, 'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif;font-size:46px;letter-spacing:-0.01em;font-style:italic}
+.by{font-size:15px;letter-spacing:0.16em;text-transform:uppercase;color:#7c7c82}
+.rule{width:44px;height:2px;background:#2a2b31}
+</style>
+<div class="page">
+  <div class="q">&#8220;you will always need to type on your keyboard&#8221;</div>
+  <div class="rule"></div>
+  <div class="by">Manifesto · Roch Junior</div>
+</div></div></foreignObject></svg>

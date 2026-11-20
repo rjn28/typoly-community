@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img"><title>Typoly: a sentence with typos corrects itself after one key tap</title><foreignObject x="0" y="0" width="1280" height="520"><div xmlns="http://www.w3.org/1999/xhtml"><style>
+:root{--text:#1d1d1f;--muted:#6e6e73;--faint:#dcdde2;--green:#1f9d45;--blue:#0a7cff;--key-fg:#ffffff}
+*{box-sizing:border-box;margin:0;padding:0}
+.page{width:1280px;height:520px;background:#fbfbfd;color:#1d1d1f;font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif;
+  padding:56px 76px;display:flex;flex-direction:column;justify-content:space-between}
+.top,.bottom{display:flex;align-items:center;justify-content:space-between}
+.brand{display:flex;align-items:center;gap:12px;font-size:23px;font-weight:600;letter-spacing:-0.01em}
+.req,.url{font-size:15px;color:#6e6e73;letter-spacing:0.02em}
+.eyebrow{font-size:14px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:#6e6e73;margin-bottom:22px}
+.sentence{font-family:ui-serif, 'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif;font-size:60px;line-height:1.16;letter-spacing:-0.015em;max-width:1080px}
+.w{display:inline-grid;vertical-align:baseline}
+.w>span{grid-area:1/1;white-space:nowrap}
+.t{text-decoration:underline wavy #e5352b;text-decoration-thickness:2px;text-underline-offset:0.2em;text-decoration-skip-ink:none}
+.caret{display:inline-block;width:3px;height:0.82em;margin-left:6px;background:#0a7cff;vertical-align:-0.06em;animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+.hint{display:flex;align-items:center;gap:14px;font-size:17px;color:#6e6e73}
+.key{display:inline-flex;align-items:center;justify-content:center;min-width:40px;height:34px;padding:0 10px;
+  border:1.5px solid #dcdde2;border-radius:8px;font-size:18px;font-weight:600}
+@keyframes t0{0%,30.0%{opacity:1}30.6%,100%{opacity:0}}@keyframes f0{0%,30.0%{opacity:0;color:var(--green)}30.6%{opacity:1;color:var(--green)}44.0%,100%{opacity:1;color:var(--text)}}.t0{animation:t0 9s linear infinite}.f0{animation:f0 9s ease-out infinite}@keyframes t1{0%,31.8%{opacity:1}32.4%,100%{opacity:0}}@keyframes f1{0%,31.8%{opacity:0;color:var(--green)}32.4%{opacity:1;color:var(--green)}45.8%,100%{opacity:1;color:var(--text)}}.t1{animation:t1 9s linear infinite}.f1{animation:f1 9s ease-out infinite}@keyframes t2{0%,33.6%{opacity:1}34.2%,100%{opacity:0}}@keyframes f2{0%,33.6%{opacity:0;color:var(--green)}34.2%{opacity:1;color:var(--green)}47.6%,100%{opacity:1;color:var(--text)}}.t2{animation:t2 9s linear infinite}.f2{animation:f2 9s ease-out infinite}@keyframes press{0%,28.0%{background:transparent;color:var(--muted);border-color:var(--faint)}28.8%,34.0%{background:var(--blue);color:var(--key-fg);border-color:var(--blue)}40.0%,100%{background:transparent;color:var(--muted);border-color:var(--faint)}}.key{animation:press 9s ease-out infinite}@keyframes cycle{0%{opacity:0}3%,94%{opacity:1}100%{opacity:0}}.sentence{animation:cycle 9s linear infinite}
+@media (prefers-reduced-motion: reduce){
+  .t,.f,.key,.sentence,.caret{animation:none !important}
+  .t{opacity:0} .f{opacity:1}
+}
+</style>
+<div class="page">
+  <div class="top">
+    <div class="brand"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="34" height="34" aria-hidden="true"><rect x="80" y="80" width="864" height="864" rx="205" fill="#071735"/><path d="M 290 245 H 734 C 770 245 790 265 790 300 V 315 C 790 350 770 370 734 370 H 624 C 580 370 575 393 575 428 V 723 C 575 763 555 785 518 785 H 506 C 469 785 449 763 449 723 V 428 C 449 393 444 370 400 370 H 290 C 254 370 234 350 234 315 V 300 C 234 265 254 245 290 245 Z" fill="#147AFF"/></svg><span>Typoly</span></div>
+    <div class="req">macOS 13+ · Apple Silicon</div>
+  </div>
+  <div>
+    <div class="eyebrow">Instant correction for every Mac app</div>
+    <div class="sentence">You <span class="w"><span class="t t0">wirte</span><span class="f f0">write</span></span> the way you think: fast, a <span class="w"><span class="t t1">littel</span><span class="f f1">little</span></span> messy, never stopping for <span class="w"><span class="t t2">tpyos</span><span class="f f2">typos</span></span>.<span class="caret"></span></div>
+  </div>
+  <div class="bottom">
+    <div class="hint"><span class="key">⌘</span><span>Tap your key. Any app, any text field.</span></div>
+    <div class="url">typoly.app</div>
+  </div>
+</div></div></foreignObject></svg>

@@ -1,0 +1,73 @@
+name: Language report
+description: A correction was wrong, missing or too heavy in your language.
+labels: ["language"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Typoly corrects many languages and keeps getting better at each one. Reports from native speakers are the best way to get there.
+
+        **This page is public. Use a made-up sentence, never your real text.**
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: Portuguese (Brazil), Russian, Hinglish…
+    validations:
+      required: true
+  - type: textarea
+    id: before
+    attributes:
+      label: What you typed
+      description: A short made-up sentence that shows the problem.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: after
+    attributes:
+      label: What Typoly returned
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What a careful native speaker would write
+      render: text
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem is it?
+      multiple: true
+      options:
+        - A mistake was not fixed
+        - Something correct was changed
+        - My wording or style was rewritten
+        - Accents, punctuation or spacing
+        - The text was translated or the language changed
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Correction mode
+      options:
+        - Proofread
+        - Contextual
+        - Not sure
+  - type: input
+    id: language-setting
+    attributes:
+      label: Language setting
+      description: Settings → Smart detection, or the language you forced.
+      placeholder: Smart detection
+  - type: input
+    id: typoly-version
+    attributes:
+      label: Typoly version
+      description: Settings → About.
+      placeholder: "1.9.3"

@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suggest a feature
+    url: https://github.com/rjn28/typoly-community/discussions/categories/ideas
+    about: Share an idea or upvote the ones you want most.
+  - name: Ask a question
+    url: https://github.com/rjn28/typoly-community/discussions/categories/q-a
+    about: How something works, which setting to pick, whether an app is supported.
+  - name: Account, payment or refund
+    url: mailto:contact@typoly.app
+    about: Anything personal stays private. Write to contact@typoly.app.
+  - name: Security issue
+    url: https://github.com/rjn28/typoly-community/security/policy
+    about: Report it privately, never in a public issue.
