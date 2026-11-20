@@ -77,8 +77,6 @@ To try it, open **Settings → About**, check **“Show experimental features”
 
 **BIG UPDATE:** You can now set an optional second shortcut to use Proofread and Contextual directly from your keyboard.
 
-**SPECIAL OFFER:** Top up your credits and I’ll double the amount you add! Just email me at contact@typoly.app after your purchase, and I’ll add the bonus credits to your account.
-
 ## 1.6.0
 
 <sub>September 22, 2026</sub>
